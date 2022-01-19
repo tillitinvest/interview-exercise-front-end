@@ -1,3 +1,22 @@
+# tillit-exercise-front-end
+This template project is the basis for the second-stage interview for front-end engineers at Tillit.
+
+It's a basic create-react-app TypeScript skeleton with styled-components added, and you'll be best
+served by having Node 16 installed.
+
+The exercise in the interview will have us add some basic functionality to this skeleton, along with
+some tests and modest styling. To make sure we use the time effectively, ahead of the interview please:
+
+* Clone this repo
+* Make sure you can build and run it (`npm start`)
+* Make sure you can run the tests (`npm test`)
+  * Note that we've modified the `test` script to avoid Jest running in watch mode, though you can
+    revert this if desired
+* Make sure that your IDE is happy making changes to the project
+
+The original CRA readme appears below for reference.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
