@@ -8,6 +8,7 @@ The exercise in the interview will have us add some basic functionality to this 
 some tests and modest styling. To make sure we use the time effectively, ahead of the interview please:
 
 * Clone this repo
+* Run `npm install`
 * Make sure you can build and run it (`npm start`)
 * Make sure you can run the tests (`npm test`)
   * Note that we've modified the `test` script to avoid Jest running in watch mode, though you can
